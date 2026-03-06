@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+db.sqlite3
+venv/
+staticfiles/
+migration_log.txt
+traceback.txt
+traceback_utf8.txt
